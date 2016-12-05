@@ -1,6 +1,6 @@
 # React Treeview
 
-#### Usage
+### Usage
 **Install**
 ````
 npm install
@@ -17,7 +17,7 @@ Open http://localhost:8080 in your browser.
 npm run build
 ````
 
-#### Data Structure
+### Data Structure
 ````
 [{
 	"children": [{
